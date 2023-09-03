@@ -1,0 +1,31 @@
+/*Selector {
+	Property: value;
+}*/
+
+* {
+	text-align: right;
+}
+
+body {
+	background-image: url(stars.jpg);
+}
+
+h2 {
+	color: red;
+	text-align: center;
+	border: 5px dashed purple;
+}
+
+p { 
+	text-decoration: underline;
+	text-transform: uppercase;
+	color: green;
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 150%;
+}
+
+.webtext {
+	border: 5px solid green;
+}
